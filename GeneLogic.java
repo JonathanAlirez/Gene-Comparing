@@ -1,5 +1,3 @@
-package com.fiberdevelopers.gene.main;
-
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -9,10 +7,6 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.Scanner;
-
-import com.fiberdevelopers.gene.aminoacids.GeneAminoAcids;
-import com.fiberdevelopers.gene.aminoacids.GeneResults;
-import com.fiberdevelopers.gene.file.GeneMaker;
 
 public class GeneLogic {
 	File dna1 = new File("Dna1.txt");

@@ -1,5 +1,3 @@
-package com.fiberdevelopers.gene.aminoacids;
-
 public class AminoAcid {
 	private String acidCodon;
 	private int acidCount;
